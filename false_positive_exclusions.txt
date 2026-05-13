@@ -1,21 +1,19 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
 Codolio
-Cults3D
 Discord.bio
+Dribbble
 Envato Forum
 Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Motherless
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -34,6 +32,7 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
