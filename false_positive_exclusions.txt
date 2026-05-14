@@ -5,12 +5,10 @@ Archive.org
 Bandcamp
 Codolio
 Discord.bio
-Dribbble
 Envato Forum
 Giphy
 Hashnode
 Hubski
-LessWrong
 Minecraft
 Motherless
 Patched
@@ -32,7 +30,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
