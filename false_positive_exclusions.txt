@@ -9,7 +9,7 @@ Envato Forum
 Giphy
 Hashnode
 Hubski
-Minecraft
+LessWrong
 Motherless
 Patched
 Rarible
@@ -26,6 +26,7 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
+authorSTREAM
 dailykos
 igromania
 interpals
