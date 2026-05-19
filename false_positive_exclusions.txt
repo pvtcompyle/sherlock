@@ -2,19 +2,17 @@
 Airliners
 Apple Discussions
 Archive.org
-Audiojungle
 Bandcamp
 Codolio
-DeviantArt
+Cults3D
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
+GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LiveJournal
-Minecraft
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -25,7 +23,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -38,4 +35,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
