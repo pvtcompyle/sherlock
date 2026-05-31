@@ -5,7 +5,6 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -21,6 +20,7 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -40,3 +40,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
