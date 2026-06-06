@@ -12,6 +12,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
 Minecraft
 Patched
 Rarible
@@ -35,5 +36,4 @@ igromania
 interpals
 mercadolivre
 opennet
-phpRU
 svidbook
