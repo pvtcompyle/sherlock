@@ -10,6 +10,7 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+GitBook
 Hashnode
 Hubski
 LessWrong
@@ -29,6 +30,7 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -36,4 +38,5 @@ igromania
 interpals
 mercadolivre
 opennet
+phpRU
 svidbook
