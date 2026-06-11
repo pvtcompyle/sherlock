@@ -5,15 +5,15 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
-NICommunityForum
+Linktree
 Patched
 Rarible
 Realmeye
@@ -23,9 +23,9 @@ RocketTube
 Scribd
 Shelf
 SlideShare
+SpaceHey
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -35,6 +35,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
+phpRU
 svidbook
