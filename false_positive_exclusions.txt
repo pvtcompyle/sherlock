@@ -16,7 +16,6 @@ Hashnode
 Hubski
 LessWrong
 Minecraft
-OurDJTalk
 Patched
 Pornhub
 Rarible
@@ -29,13 +28,13 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 TryHackMe
 Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 igromania
 interpals
 mercadolivre
