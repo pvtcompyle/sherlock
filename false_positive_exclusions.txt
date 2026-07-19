@@ -1,11 +1,11 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
 BreachSta.rs Forum
+Carrd
 Codolio
 DeviantArt
 Discord.bio
@@ -17,8 +17,6 @@ Hubski
 LessWrong
 Odysee
 PCGamer
-Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
