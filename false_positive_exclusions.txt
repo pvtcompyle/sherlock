@@ -1,11 +1,9 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -28,15 +26,14 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -47,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
