@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -7,7 +6,6 @@ Archive.org
 Bandcamp
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -22,8 +20,6 @@ Itch.io
 Minecraft
 Odysee
 PCGamer
-Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -42,7 +38,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 igromania
