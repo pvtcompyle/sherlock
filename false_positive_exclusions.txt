@@ -4,7 +4,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -12,21 +11,22 @@ DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
+Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
 Houzz
 Hubski
 Instapaper
-LushStories
 ObservableHQ
 Odysee
 PCGamer
+Rajce.net
 Rarible
 Realmeye
 Reddit
-Replit.com
 ReverbNation
+RocketTube
 Scribd
 Shelf
 SlideShare
