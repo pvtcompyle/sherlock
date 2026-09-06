@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -7,7 +8,9 @@ Bandcamp
 CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
+DEV Community
 DeviantArt
 Discord.bio
 Envato Forum
@@ -20,7 +23,10 @@ Instapaper
 Minecraft
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
+Pornhub
+Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -30,6 +36,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trakt
 Trovo
 TryHackMe
