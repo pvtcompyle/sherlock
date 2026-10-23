@@ -22,8 +22,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
-NationStates Nation
-NationStates Region
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -37,6 +36,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
@@ -51,3 +51,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
