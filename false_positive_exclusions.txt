@@ -26,7 +26,6 @@ Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -37,6 +36,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
@@ -44,7 +44,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-hunting
 interpals
 mercadolivre
 opennet
