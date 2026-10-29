@@ -13,6 +13,7 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+GitHub
 HackerNews
 Hashnode
 Houzz
@@ -27,7 +28,6 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -43,6 +43,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
