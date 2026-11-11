@@ -3,8 +3,10 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+CTAN
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -33,7 +35,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
@@ -48,3 +49,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+threads
