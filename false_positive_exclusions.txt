@@ -1,10 +1,10 @@
 APClips
 Airliners
+AniWorld
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -22,21 +22,19 @@ Linktree
 Minecraft
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
 Smule
 Splice
 Spotify
+Strava
 Trakt
 TryHackMe
 Velomania
@@ -52,4 +50,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
