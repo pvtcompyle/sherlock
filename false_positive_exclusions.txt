@@ -1,26 +1,21 @@
-APClips
 Airliners
-AniWorld
 Apple Developer
 Apple Discussions
 Archive.org
-BabyRu
-Bandcamp
+Blogger
 Championat
 Chatujme.cz
 Codolio
+DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-Giphy
-Gravatar
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
-LibraryThing
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -29,10 +24,10 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
-Smule
 Splice
 Spotify
 Trakt
