@@ -1,13 +1,14 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Audiojungle
 Blogger
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Flipboard
 GaiaOnline
 GeeksforGeeks
 HackerNews
@@ -15,7 +16,6 @@ Hashnode
 Hubski
 Instapaper
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -45,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
